@@ -300,12 +300,11 @@ background-color: #f7f8fb;
 }
 .man img {
     height: 330px;
-    display: inline-block;
 }
 
 .santa-flex {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 

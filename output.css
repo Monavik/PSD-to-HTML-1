@@ -247,12 +247,11 @@ body {
   position: absolute; }
 
 .man img {
-  height: 330px;
-  display: inline-block; }
+  height: 330px; }
 
 .santa-flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center; }
 
 /* HOUSE */
